@@ -4,7 +4,9 @@ CONTENIDO
 
 - [Rasgabola mayor](#rasgabola-mayor)
   - [Quitar inmunidad](#quitar-inmunidad)
-- [Antro del Kralamar gigante](#antro-del-kralamar-gigante)
+- [Kimbo](#kimbo)
+  - [Quitar inminidad](#quitar-inminidad)
+- [Antro del Kralamar gigante \[Nivel 190\]](#antro-del-kralamar-gigante-nivel-190)
   - [Mecánica](#mecánica)
   - [Quitar inmunidad](#quitar-inmunidad-1)
   - [Notas](#notas)
@@ -20,8 +22,21 @@ CONTENIDO
 - Otra forma es esperar a que Kilbris salte cereca de él
   - Le da un hechizo que hace que por cada golpe gane 2 PA por un par de turnos
 
-# Antro del Kralamar gigante
+# Kimbo
 
+## Quitar inminidad
+- Tiene que empezar en una casilla con trampa
+- Al pegar con Fuerza y Agua:
+  - Las casillas diagonales a la invo son seguras
+- Al pegar con Inte y Agi
+  - Las casillas diagonales a la invo son trampa
+- Si se cuenta con el poder para matarlos de una se puede hacer esto:
+  - Pegar a Kimbo en el turno 1
+  - En el turno 2 la invo creará las trampas, hay que posicionar a Kimbo, pero no pegarle
+  - En el turno 3 Kimbo gana debilidades y no hay trampas así que es seguro enfocarse en pegarle
+
+
+# Antro del Kralamar gigante [Nivel 190]
 
 ## Mecánica
 
